@@ -6,17 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=AI+%26+Automation;Full-Stack+Development;Voice+AI+%26+LLM+Applications;n8n+Workflow+Automation;Building+Practical+Software+Solutions" alt="Typing animation">
 </a>
 
-<br><br>
-
-<a href="https://github.com/manikar984">
-<img src="https://komarev.com/ghpvc/?username=manikar984&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views">
-</a>
-
-<a href="https://github.com/manikar984?tab=followers">
-<img src="https://img.shields.io/github/followers/manikar984?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub followers">
-</a>
-
-</div>
 
 ---
 

@@ -3,9 +3,10 @@
 # Kothakapu Manikar Reddy
 
 <a href="https://github.com/manikar984">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=AI+%26+Automation;Full-Stack+Development;Voice+AI+%26+LLM+Applications;n8n+Workflow+Automation;Building+Practical+Software+Solutions" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=150&lines=AI+%26+Automation;Full-Stack+Development;Voice+AI+%26+LLM+Applications;n8n+Workflow+Automation;Building+Practical+Software+Solutions" alt="Typing animation">
 </a>
 
+</div>
 
 ---
 
